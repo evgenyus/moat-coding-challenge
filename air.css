@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+html, body, #map {
+    height: 100%;
+    margin: 0;
+    padding: 0
+}
+
+#inputs {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100px;
+    z-index: 1;
+}
+
+#inputs input {
+    font-size: 18px;
+}
+
+#distance {
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    text-shadow: -1px -1px 0 #FFF, 1px -1px 0 #FFF, -1px 1px 0 #FFF, 1px 1px 0 #FFF;  
+    transform: translateX(-50%);
+    top: 50px;
+    z-index: 1;
+}

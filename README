@@ -1,0 +1,7 @@
+Distance between two airports by Evgeny Glazyrin
+
+Web server is not necessary to run this, just open index.html in any ES6-supporting browsers
+
+Airport data is from http://data.okfn.org/data/core/airport-codes
+
+Live version at http://evgeny.us/air/
